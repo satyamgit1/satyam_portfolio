@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://satyamportfolios.netlify.app/)
 ## Some Images:
-<img width="450px;" src="https://github.com/satyamgit1/satyam_portfolio/blob/main/public/HeroImage.jpg"/>
+<img width="450px;" src="https://github.com/satyamgit1/satyam_portfolio/blob/main/public/landing.png"/>
 
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
