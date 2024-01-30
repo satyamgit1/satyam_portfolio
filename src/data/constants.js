@@ -215,7 +215,7 @@ export const projects = [
     tags: ["Next Js", "MongoDb", "Node Js", "Express Js", "API"],
     category: "web app",
     github: "https://github.com/satyamgit1/bhagavad_gita",
-    webapp: "https://satyamportfolios.netlify.app/",
+    webapp: "https://www.bhagavadgita.site/",
     member: [
       {
         name: "Satyam Singh",
@@ -233,12 +233,12 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Society Sathi",
+    title: "SocietySathi",
     date: "Oct 2022 - Present",
     description:
       "SocietySathi is a web platform optimizing residential society management. It tracks resident details, manages complaints, and streamlines NOC generation. This project highlights my full-stack web development, database management, and user-centric design expertise.",
     image:
-      "",
+      "https://avatars.githubusercontent.com/u/95707432?v=4",
     tags: [
       "React Js",
       "MongoDb",
